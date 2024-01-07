@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Kamogelo Ramantsima
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Java looking to jumping into Java web development
-- 💞️ I’m looking to collaborate on web developmet projects but just about anything 
-- 📫 Please email me on Kamogelosean6@gmail.com or 0767604866 or connect me with on Linkedn: https://www.linkedin.com/in/kamogelo-ramantsima-485a2118b/
+Hello,
+I am Kamogelo Ramantsima, focusing on Full Stack Development as my area of expertise.
+Currently, I am immersing myself in Java and seeking to specialize in Java web development.
+I am keen to collaborate on web development projects and open to engaging in various opportunities.
+You can contact me via email at Kamogelosean6@gmail.com or by phone at 0826592830. Additionally, you may connect with me professionally on LinkedIn: Kamogelo Ramantsima.
+
 
 <!---
 ThatNaturall/ThatNaturall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
